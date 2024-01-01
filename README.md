@@ -1,3 +1,3 @@
-# Web app to demonstrate steganography
+# Application web basée sur la stéganographie
 
-## Author - Shouvik Bajpayee
+## Auteurs : Les étudiants de ic4 polytechnique
